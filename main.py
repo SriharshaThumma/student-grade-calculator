@@ -9,7 +9,10 @@ average = calculate_average(marks)
 
 grade = calculate_grade(average)
 
+print("Welcome")
 print("\n----- RESULT -----")
 print("Student:", name)
 print("Average:", average)
 print("Grade:", grade)
+
+
